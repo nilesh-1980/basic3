@@ -1,0 +1,21 @@
+.ani{
+
+/* background-image:url("./assets/tree.png") ; */
+height: 2000px;
+width: 2000px;
+color:blue;
+background-image: url("https://img.freepik.com/premium-photo/lord-rama-lord-hanuman-flying-sky_1037680-46971.jpg?w=740");
+    /* background-size: cover;  */
+    background-repeat: no-repeat; 
+    background-position: center; 
+   text-align: center;
+    background-size: cover; 
+}
+/* .ani {
+    background-image: url("https://img.freepik.com/premium-photo/lord-rama-lord-hanuman-flying-sky_1037680-46971.jpg?w=740");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+} */
+
+
